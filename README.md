@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nghianpea
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python django
+- 💞️ I’m looking to collaborate on web game projects
+- 📫 How to reach me: nghia.nguyen@eastagile.com
